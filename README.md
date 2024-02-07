@@ -4,6 +4,8 @@
 
 - <b>AWS EC2 Instance Creation/ Jenkins Builds / XML Parsing - Practice</b>
   - [Praciting AWS Instances, Jenkins, and XML parsing on C++](https://github.com/Piko-12/SWDV-460.git)
+- <b>Seating Chart Application - C++ Practice</b>
+  - [Practicing Arrays, Pointers, Iteration, and Functions C++ ](https://github.com/Piko-12/COSC-151-SeatingChartApplication.git)
 
 
 <h2>Connect with me:</h2>
