@@ -8,6 +8,8 @@
   - [Practicing Arrays, Pointers, and Iteration on C++ ](https://github.com/Piko-12/COSC-151-SeatingChartApplication.git)
 - <b> Stacks and Queues - Data Structure Practice</b>
   - [Practicing Stacks and Queues on C++ ](https://github.com/Piko-12/COSC350_StackQueuePractice.git)
+- <b> Sort and Search Algorithms - Practice</b>
+  - [Practicing Sort and Search Algorithms on C++ ](https://github.com/Piko-12/COSC350_SortSearchAlgorithims.git)
 
 
 <h2>Connect with me:</h2>
