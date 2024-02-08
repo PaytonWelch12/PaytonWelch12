@@ -16,7 +16,10 @@
 
 [<img align="left" alt="PaytonWelch | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="PaytonWelch | LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
+[<img align="left" alt="PaytonWelch | LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="PaytonWelch | LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />][webpage]
 
 [linkedin]: https://www.linkedin.com/in/paytonwelch12/
 [leetcode]: https://leetcode.com/Piko_12/
-
+[facebook]: https://www.facebook.com/payton.welch.1/
+[webpage]: https://www.facebook.com/payton.welch.1/
