@@ -15,6 +15,6 @@
 [<img align="left" alt="PaytonWelch | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="PaytonWelch | LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
 
-[linkedin]: www.linkedin.com/in/payton-welch-540b581b4
+[linkedin]: www.linkedin.com/in/paytonwelch12
 [leetcode]: https://leetcode.com/Piko_12/
 
