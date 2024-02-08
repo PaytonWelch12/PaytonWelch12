@@ -13,6 +13,8 @@
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="PaytonWelch | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="PaytonWelch | LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][linkedin]
 
 [linkedin]: www.linkedin.com/in/payton-welch-540b581b4
+[leetcode]: https://leetcode.com/Piko_12/
 
