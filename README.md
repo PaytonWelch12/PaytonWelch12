@@ -4,12 +4,13 @@
 
 - <b>AWS EC2 Instance Creation/ Jenkins Builds / XML Parsing - CI/CD Practice</b>
   - [Praciting AWS Instances, Jenkins, and XML parsing on C++ ](https://github.com/Piko-12/SWDV-460.git)
-- <b>Seating Chart Application - C++ Practice</b>
+- <b>File storage Program - Java Practice</b>
+  - [Practicing OOP, Visitor Pattern, and Design Principles on Java ](https://github.com/Piko-12/SWDV430_ConstApp.git)
+- <b>Seating Chart Program - C++ Practice</b>
   - [Practicing Arrays, Pointers, and Iteration on C++ ](https://github.com/Piko-12/COSC-151-SeatingChartApplication.git)
 - <b> Stacks and Queues - Data Structure Practice</b>
   - [Practicing Stacks and Queues on C++ ](https://github.com/Piko-12/COSC350_StackQueuePractice.git)
-- <b> Sort and Search Algorithms - Practice</b>
-  - [Practicing Sort and Search Algorithms on C++ ](https://github.com/Piko-12/COSC350_SortSearchAlgorithims.git)
+
 
 
 <h2>Connect with me:</h2>
