@@ -1,4 +1,4 @@
-<h1>Hi, I'm Payton,</h1>I’m ready to start my career as a software developer. I'm passionate about designing and building fun projects. I’m open to any project suggestions, career advice, or if you just want to connect, please contact me through my <a href = "https://paytonwelch12.github.io/WebsitePW/"> webpage</a> or <a href = "https://www.linkedin.com/in/paytonwelch12/">LinkedIn</a>. Enjoy exploring my portfolio!
+<h1>Hi, I'm Payton,</h1>I’m ready to start my career as a software test engineer. I'm passionate about designing and building fun projects. I’m open to any project suggestions, career advice, or if you just want to connect, please contact me through my <a href = "https://paytonwelch12.github.io/WebsitePW/"> webpage</a> or <a href = "https://www.linkedin.com/in/paytonwelch12/">LinkedIn</a>. Enjoy exploring my portfolio!
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
