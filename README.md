@@ -23,4 +23,4 @@
 [linkedin]: https://www.linkedin.com/in/paytonwelch12/
 [leetcode]: https://leetcode.com/Piko_12/
 [facebook]: https://www.facebook.com/payton.welch.1/
-[webpage]: https://paytonwelch12.github.io/WebsitePW/
+[webpage]: https://paytonwelch12.github.io/ws/
